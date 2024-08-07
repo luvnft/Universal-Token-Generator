@@ -12,9 +12,10 @@ Generate your custom token and build your decentralized application (DApp) with 
 
 
 Website:https://devbenflores.github.io/Universal-Token-Generator/<br>
+𝕏:https://x.com/UniversalTokenG<br>
 
 
-Support network:
+Supported networks:
 https://chainlist.wtf/
 
 
