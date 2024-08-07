@@ -11,7 +11,7 @@ Your all-in-one solution for issuing cryptocurrency tokens across Ethereum, Bina
 Generate your custom token and build your decentralized application (DApp) with ease. Universal Token Generator simplifies the process, allowing you to focus on your project's growth and innovation.
 
 
-Website:<br>
+Website:https://devbenflores.github.io/Universal-Token-Generator/<br>
 
 
 Support network:
