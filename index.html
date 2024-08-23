@@ -401,8 +401,21 @@ var lang = usrlang;
                                 <img id="loader1" src="loading.gif"></img>
                             </center>
                             <center>
+				            <div id="termsInscription" class="form-group">
+            By accessing or using our Site, App, or Platform, you agree to comply with and be bound by these <a href="/terms-of-use.md" target="_blank" style="color: blue;">Terms of Use</a>.
+        </div>
+
+        <center>
                                 <button id="TokenSubmit" class="btn btn-primary ml-auto" type="button" title="Next">Create Token</button>
                             </center>
+				        </form>
+
+    <script>
+        document.getElementById('TokenSubmit').addEventListener('click', function() {
+            document.getElementById('termsInscription').style.display = 'none';
+        });
+    </script>
+				                                </center>
                 </form>
             </div>
             <p class="card-text"></p>
